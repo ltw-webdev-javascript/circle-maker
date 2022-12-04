@@ -21,7 +21,7 @@ deliverables: '1 HTML file, 1 CSS file, 1 JS file'
 
 Create the interaction shown in the linked video.
 
-- [**Watch this video to see how it interacts.**](https://videos.learntheweb.courses/playlists/web-dev-js/circle-maker.mp4)
+- [**Watch this video to see how it interacts.**](https://video-assets.learntheweb.courses/web-dev-js/circle-maker.mp4)
 
 ---
 
@@ -36,4 +36,4 @@ Drop this folder into your Markbot application. Make sure to fix all the errors.
 *These challenges are here if you’d like to try a little more work—they are for extra experience and learning. They are completely optional and not graded. Show them to me if you’d like—I’d love to see them.*
 
 1. When a new circle is added make its `background-color` randomized.
-  <br>[**Watch this video to see how it interacts.**](https://videos.learntheweb.courses/playlists/web-dev-js/circle-maker-bonus.mp4)
+  <br>[**Watch this video to see how it interacts.**](https://video-assets.learntheweb.courses/web-dev-js/circle-maker-bonus.mp4)
